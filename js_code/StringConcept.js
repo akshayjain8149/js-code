@@ -1,9 +1,9 @@
 /*const name = "akshay"
 const repocount = 50
-console.log("my name is",name + "repocount is",repocount);
-console.log(`hello my name is ${name} and repocount is ${repocount}`);
+console.log("my name is",name + "repocount is",repocount);//outdate
+console.log(`hello my name is ${name} and repocount is ${repocount}`);string interpination
 
-const gameName = new String('hiteshhc')
+const gameName = new String('hiteshhc')//declare
 console.log(gameName[0]);
 console.log(gameName.__proto__);
 console.log(gameName.length);
